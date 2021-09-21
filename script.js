@@ -1,0 +1,1 @@
+console.log("Dummy shape script file is loaded.");
